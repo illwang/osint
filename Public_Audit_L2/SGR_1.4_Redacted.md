@@ -1,5 +1,5 @@
 SGR 1.4 战略审计报告（脱敏版 / Level 2）
-
+> **Key Findings (English):** The Hormuz Strait has transitioned from a U.S. Navy-guarded public good to an Iranian-conditioned private asset. The insurance dual-track system and five-tier Variable Rents regime now constitute the "soft law" of gray-zone order. Path Beta (discrete escalation) is active; diplomatic rhetoric exhibits high Execution Entropy. China's "minimum effective intervention" equilibrium is under stress post the 5/4 tanker incident. South Korea's NAMU investigation is the critical path for allied behavioral templates.
 > **主题**：灰区秩序制度化与富查伊拉溢价归零  
 > **版本**：SGR 1.4 Redacted  
 > **密级**：公开审计（L2 - 核心数据已脱敏）  
