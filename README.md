@@ -16,7 +16,7 @@ SSR provides **"Shadow Intelligence"**: we identify structural bifurcations **be
 
 **Current Active Fronts**
 - **Front A — Hormuz:** The Beijing Summit (May 15) failed the "Physical Implementation Test." [L2 Report →](./Public_Audit_L2/SGR_1.4_Redacted.md)
-- **Front B — AI Supply Chain:** Samsung mediation failure (May 16) locks in the HBM cost-transmission loop. [L2 Report →(./Public_Audit_L2/AI_Investment_Paradox_1.0.md)
+- **Front B — AI Supply Chain:** Samsung mediation failure (May 16) locks in the HBM cost-transmission loop. ... [L2 Report →](./Public_Audit_L2/AI_Paradox_1.0.md)
 
 **Latest Audit**: `2026-05-16` | **Next Window**: `2026-05-20`
 
