@@ -157,7 +157,7 @@ _价值点：证明我们的 OSINT 处理引擎是科学且严密的。_
 
 针对特定事件与产业周期的深度 OSINT 审计。 **核心参数已脱敏 (Redacted)**，保留完整逻辑骨架与事实链。
 
-👉 **下载最新 L2 报告：[./Public_Audit_L2/SIG_1.4_Redacted.md](./Public_Audit_L2/SIG_1.4_Redacted.md)**
+👉 **下载最新 L2 报告：[Public_Audit_L2/SGR_1.4_Redacted.mdd](Public_Audit_L2/SGR_1.4_Redacted.md)**
 
 **内容包含**：
 - 执行熵模型在霍尔木兹局势中的校准应用
