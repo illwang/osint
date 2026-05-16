@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this framework or any derivative analysis, please cite it as below."
+title: "Shadow Strategic Research (SSR): OSINT Auditing Framework for AI Supply Chain & Geopolitical Risk"
+authors:
+  - family-names: "Wang"
+    given-names: "Ill"
+    affiliation: "Shadow Strategic Research (SSR)"
+version: 1.0.0
+date-released: 2026-05-16
+url: "https://github.com/illwang/osint"
+repository-code: "https://github.com/illwang/osint"
+license: CC-BY-NC-ND-4.0
+keywords:
+  - "OSINT"
+  - "strategic intelligence"
+  - "AI supply chain"
+  - "HBM"
+  - "geopolitical risk"
+  - "physical-constraint forecasting"
+  - "execution entropy"
+  - "scenario planning"
+  - "export control"
+  - "industrial policy"
+abstract: >
+  Proprietary OSINT auditing framework for AI infrastructure supply chain and 
+  geopolitical risk assessment. Featuring physical-constraint forecasting, 
+  execution entropy models, and institutional-grade logic for macro risk de-risking. 
+  This repository publishes L2 (Public Audit) versions of research reports. 
+  L3 (Full Quantitative) versions with complete parametric boundaries are 
+  available via private access only.
