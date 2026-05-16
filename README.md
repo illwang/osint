@@ -53,7 +53,7 @@ SSR provides **"Shadow Intelligence"**: we identify structural bifurcations **be
 | 2026-05-16 | Helium spot price surged &gt;490% | [CCTV News](https://news.cctv.com) / [Mysteel](https://www.mysteel.com) | ✅ Verified |
 | 2026-05-16 | Beijing Summit: "Constructive Strategic Stability" | [Xinhua](http://www.xinhuanet.com) / [People's Daily](http://www.people.com.cn) | ✅ Verified |
 
-&gt; **Community Falsification:** Selected L2 reports are published on [Xueqiu (雪球)](https://xueqiu.com) for public stress-testing.  
+ 
 &gt; **Active bounties:** Samsung strike impact &gt;15%? (Verify by May 21) | Hormuz reopening by Q2-end? (Verify by June 30).
 
 ---
