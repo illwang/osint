@@ -1,5 +1,5 @@
 # AI 投资悖论 1.0：资本黑洞与营收节点的双轨制推演（脱敏版 / L2）
-
+> **Key Findings (English):** AI capital expenditure is in a "black-hole gravity" phase where supply-side risks (HBM Fragile Quadrilateral, Samsung strike countdown) are fully priced, while demand-side risks (ARR-Token cost scissors gap) are systematically underpriced. The sanction paradigm is shifting from technology blockade to behavioral legislation (MATCH Act / HR 8283). The "Competitive Coexistence" framework is operationally confirmed post-Beijing Summit. The legislative acceleration window is the highest-conviction directional bet for Q2-Q4 2026.
 &gt; **主题**：HBM 脆弱四角、制裁范式转移与资本-营收剪刀差  
 &gt; **版本**：AI Paradox 1.0 Redacted  
 &gt; **密级**：公开审计（L2 - 核心数据已脱敏）  
