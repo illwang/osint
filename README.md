@@ -15,8 +15,8 @@
 SSR provides **"Shadow Intelligence"**: we identify structural bifurcations **before market consensus forms**, using only publicly available information processed through a four-layer closed-loop architecture.
 
 **Current Active Fronts**
-- **Front A — Hormuz:** The Beijing Summit (May 15) failed the "Physical Implementation Test." [L2 Report →](#intelligence-tiers)
-- **Front B — AI Supply Chain:** Samsung mediation failure (May 16) locks in the HBM cost-transmission loop. [L2 Report →](#intelligence-tiers)
+- **Front A — Hormuz:** The Beijing Summit (May 15) failed the "Physical Implementation Test." [L2 Report →](./Public_Audit_L2/SGR_1.4_Redacted.md)
+- **Front B — AI Supply Chain:** Samsung mediation failure (May 16) locks in the HBM cost-transmission loop. [L2 Report →](./Public_Audit_L2/AI_Investment_Paradox_1.0.md)
 
 **Latest Audit**: `2026-05-16` | **Next Window**: `2026-05-20`
 
@@ -181,7 +181,7 @@ SSR 提供 **"Shadow Intelligence"**：以公开可获取信息为基底，经�
 
 针对特定事件与产业周期的深度 OSINT 审计。 **核心参数已脱敏 (Redacted)**，保留完整逻辑骨架与事实链。
 
-👉 **下载最新 L2 报告：** [Public_Audit_L2/SGR_1.4_Redacted.md](/Public_Audit_L2/SGR_1.4_Redacted.md)
+👉 **下载最新 L2 报告：** [SGR_1.4_Redacted.md](./Public_Audit_L2/SGR_1.4_Redacted.md)
 
 **内容包含**：
 - 执行熵模型在霍尔木兹局势中的校准应用
@@ -190,7 +190,7 @@ SSR 提供 **"Shadow Intelligence"**：以公开可获取信息为基底，经�
 - 中国成本临界点逻辑架构（阈值脱敏）
 - 富查伊拉溢价归零的实时偏移分析
 
-👉 **下载最新 L2 报告：** [Public_Audit_L2/AI_Investment_Paradox_1.0.md](/Public_Audit_L2/AI_Investment_Paradox_1.0.md)
+👉 **下载最新 L2 报告：** [AI_Investment_Paradox_1.0.md](./Public_Audit_L2/AI_Investment_Paradox_1.0.md)
 
 **内容包含**：
 - HBM 脆弱四角模型的校准应用（三星罢工倒计时、SK海力士产能售罄、氦气库存缓冲与Q3撞击点）
