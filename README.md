@@ -15,9 +15,9 @@
 SSR provides **"Shadow Intelligence"**: we identify structural bifurcations **before market consensus forms**, using only publicly available information processed through a four-layer closed-loop architecture.
 
 **Current Active Fronts**
-- **Front A — Hormuz:** The Beijing Summit (May 15) failed the "Physical Implementation Test." [L2 Report →](./SGR_1.4_Redacted.md)
-- **Front B — AI Supply Chain:** Samsung mediation countdown (May 21) locks in the HBM cost-transmission loop. [L2 Report →](./AI_Investment_Paradox_1.0.md)
-- **Front C — Transformer/Water:** US data center buildout faces "supply chain hallucination" — not global shortage, but Western manufacturing collapse. [L2 Report →](./AI_DataCenter_Thirst_1.0.md)
+- **Front A — Hormuz:** The Beijing Summit (May 15) failed the "Physical Implementation Test." [L2 Report →](./Public_Audit_L2/SGR_1.4_Redacted.md)
+- **Front B — AI Supply Chain:** Samsung mediation countdown (May 21) locks in the HBM cost-transmission loop. [L2 Report →](./Public_Audit_L2/AI_Investment_Paradox_1.0.md)
+- **Front C — Transformer/Water:** US data center buildout faces "supply chain hallucination" — not global shortage, but Western manufacturing collapse. [L2 Report →](./Public_Audit_L2/AI_DataCenter_Thirst_1.0.md)
 
 **Latest Audit**: `2026-05-17` | **Next Window**: `2026-05-20`
 
@@ -201,11 +201,11 @@ SSR 提供 **"Shadow Intelligence"**：以公开可获取信息为基底，经�
 
 针对特定事件与产业周期的深度 OSINT 审计。 **核心参数已脱敏 (Redacted)**，保留完整逻辑骨架与事实链。
 
-👉 **下载最新 L2 报告：** [SGR_1.4_Redacted.md](./SGR_1.4_Redacted.md)
+👉 **下载最新 L2 报告：** [SGR_1.4_Redacted.md](./Public_Audit_L2/SGR_1.4_Redacted.md)
 
-👉 **下载最新 L2 报告：** [AI_Investment_Paradox_1.0.md](./AI_Investment_Paradox_1.0.md)
+👉 **下载最新 L2 报告：** [AI_Investment_Paradox_1.0.md](./Public_Audit_L2/AI_Investment_Paradox_1.0.md)
 
-👉 **下载最新 L2 报告：** [AI_DataCenter_Thirst_1.0.md](./AI_DataCenter_Thirst_1.0.md)
+👉 **下载最新 L2 报告：** [AI_DataCenter_Thirst_1.0.md](./Public_Audit_L2/AI_DataCenter_Thirst_1.0.md)
 
 **内容包含**：
 - 执行熵模型在霍尔木兹局势中的校准应用
