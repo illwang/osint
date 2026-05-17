@@ -64,7 +64,7 @@ SSR provides **"Shadow Intelligence"**: we identify structural bifurcations **be
 | 2026-05-17 | US ~50% data center projects delayed/cancelled | [Bloomberg](https://www.bloomberg.com) via [TechRadar](https://www.techradar.com) (Apr 2026) | ✅ Verified |
 | 2026-05-17 | TBEA order backlog >80B RMB, scheduled to 2027 year-end | [Phoenix Finance](https://finance.ifeng.com) / [East Money](https://www.eastmoney.com) | ✅ Verified |
 
-> **Community Falsification:** Selected L2 reports are published on [Xueqiu (雪球)](https://xueqiu.com) for public stress-testing.  
+ 
 > **Active bounties:** Samsung strike impact >15%? (Verify by May 21) | Hormuz reopening by Q2-end? (Verify by June 30) | Transformer secondary market premium >50%? (Verify by Q3).
 
 ---
