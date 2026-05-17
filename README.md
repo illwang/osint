@@ -314,7 +314,8 @@ Detailed deconstruction and hedge calibration available in L2 Redacted reports.
 - 为金融机构提供AI算力供应链的深度尽调与压力测试，识别被HBM、氦气等物理瓶颈所掩盖的投资风险。
 - 为出海制造/能源企业提供“工厂通电权”审计，评估从变压器进口、水资源许可到制裁法案冲击的全链路地缘韧性。
 - 为董事会与高管层提供定制化的“战略风险日历”，帮助他们从每日的新闻噪音中，识别出真正威胁企业生存的物理与制度死线。
-👉 **下载最新 L2 报告：** 数字基础设施的地缘韧性——从代码漏洞到变压器断供的完整风险光谱
+- 
+👉 **下载最新 L2 报告：** 数字基础设施的地缘韧性——从代码漏洞到变压器断供的完整风险光谱(./Public_Audit_L2/CPR_1.0_Cyber_Physical_Resilience_Audit.md)
 ---
 _Last Updated: 2026-05-17_  
 _Next Audit Window: 2026-05-20_
