@@ -296,6 +296,7 @@ We maintain active surveillance on scenario-collapse triggers across all fronts.
 Detailed deconstruction and hedge calibration available in L2 Redacted reports.
 
 ---
-
+作者简介：
+---
 _Last Updated: 2026-05-17_  
 _Next Audit Window: 2026-05-20_
