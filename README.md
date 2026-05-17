@@ -296,16 +296,5 @@ We maintain active surveillance on scenario-collapse triggers across all fronts.
 Detailed deconstruction and hedge calibration available in L2 Redacted reports.
 
 ---
-# 作者简介
-
-我是scanwang。在网络安全与物理基础设施的交叉地带，我建立了一套跨层风险审计框架（SSR），核心假设是：当今企业的生存性风险已从代码层（Layer 1）迁移至物理约束层（Layer 2-4）——变压器交付周期、HBM产能、海峡航运状态，这些才是构成实质性拒绝服务的死线。
-该框架以信源分级+证伪条件+时间戳存证为方法论底座，所有方向性判断均附带"何种信号出现即可推翻该判断"的透明规则。2026年Q1以来，框架已提前标记三星罢工窗口、氦气Q3短缺等事件链，相关预判可通过GitHub提交记录回溯验证。
-当前聚焦三类高价值场景：
-AI算力供应链尽调：为金融机构识别被HBM、光芯片瓶颈掩盖的结构性投资风险；
-出海地缘韧性审计：评估工厂从"通电权"到制裁立法冲击的全链路物理约束；
-高管战略风险日历：将全球动态噪音转化为董事会级别的决策预警信号。。
-- 
-👉 **下载最新 L2 报告：** [数字基础设施的地缘韧性——从代码漏洞到变压器断供的完整风险光谱](./Public_Audit_L2/CPR_1.0_Cyber_Physical_Resilience_Audit.md)
----
 _Last Updated: 2026-05-17_  
 _Next Audit Window: 2026-05-20_
