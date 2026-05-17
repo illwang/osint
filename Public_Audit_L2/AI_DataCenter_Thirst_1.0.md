@@ -1,9 +1,5 @@
 ##AI算力的"干渴期"：全球数据中心变压器缺口与水资源配额物理审计（脱敏版 / Level 2）
 
-Key Findings (English): The so-called "global transformer shortage" is a supply-chain hallucination masking the systemic collapse of Western indigenous manufacturing capacity. China's ~4-month delivery cycle versus the US/EU's 120+ week cycle creates a structural time-premium arbitrage. GOES (Grain-Oriented Electrical Steel) is not globally scarce—China dominates ~65% of global consumption with structural oversupply. The US data-center buildout faces mass postponement not from GPU unavailability, but from transformer energization failure. Liquid-cooling transition imposes a 15-25% stealth CAPEX tax per rack. Neutral-zone compute hubs (Malaysia Johor ★★★★★, Kazakhstan ★★★☆, Nordic ★★★★) are diverting AI power demand from US/EU chokepoints. A-share valuation models for transformer exporters must migrate from manufacturing PE (15x) to resource-grade PE (30x+) as "time-locked orders" become physical options under 120-week constraints.
-
-> 主题：变压器"供应链幻觉"、GOES产能-价格剪刀差、液冷转型摩擦成本与中立国电力套利
-> 版本：AI DataCenter Thirst 1.0 Redacted
 > 密级：公开审计（L2 - 核心数据已脱敏）
 > 日期：2026年5月17日
 > 声明：本报告基于多源 OSINT 交叉验证，所有关键事实均标注信源路径。核心数值以 [DATA REDACTED] 替代，逻辑框架完整保留。
